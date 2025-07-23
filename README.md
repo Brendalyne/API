@@ -1,5 +1,5 @@
 # API
-Intructions
+Instructions
 1. Download InteliJ
 
 2. Pull the project
